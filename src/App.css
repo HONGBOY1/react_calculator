@@ -43,7 +43,19 @@
   background-color: rgb(253, 253, 254);
   margin-bottom: 4px;
   text-align: right;
-}
+}.Button .text2{
+   width: 320px;
+   height: 32px;
+   font-size: 15px;
+   border: 0;
+   color: rgb(141, 141, 141);
+
+   outline: none;
+   padding-left: 10px;
+   background-color: rgb(253, 253, 254);
+   margin-bottom: 4px;
+   text-align: right;
+ }
 .Button .teg{
   background: #f8f8f8;
 }
